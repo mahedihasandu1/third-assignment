@@ -2,6 +2,7 @@
 .bg-working{
     background-color: #F4FAFD;
 }
-.bg-ready{
-    
+
+.right{
+   justify-content: end;
 }
