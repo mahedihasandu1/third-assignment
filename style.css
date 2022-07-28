@@ -6,3 +6,11 @@
 .right{
    justify-content: end;
 }
+/* font awesome  socail icon*/
+.fa-brands {
+    color: white;
+    padding: 10px;
+    font-size: 40px;
+}
+
+
