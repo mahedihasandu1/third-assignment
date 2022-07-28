@@ -14,3 +14,32 @@
 }
 
 
+/* medi queari for mopbile device */
+@media  screen and (max-width:576px) {
+    .courses{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .courses .courses-banner{
+        width: 100% ;
+        justify-content: center;
+    }
+    .courses-info{
+        margin-top: 20px;
+        margin: 0%;
+        padding: 0%;
+    }
+    .fonttext{
+        font-size: 5px;
+        width: 400;
+        text-align:center;
+        
+    }
+}
+/* media quariy pc */
+@media screen (min-width:992px) and (max-width:1400px) {
+.courses .courses-banner{
+    width:35%;
+}
+}
